@@ -1,0 +1,11 @@
+Untuk Instalasi Program ini di localhost ada beberapa yang perlu dilakukan :
+1. Aktifkan XAMPP lalu masukan seluruh source code program ke folder htdocs XAMPP
+2. Ubah konfigurasi pada file .env diantaranya :
+   BASE_URL
+   DB_HOSTNAME
+   DB_USERNAME
+   DB_PASSWORD
+   DB_NAME
+
+   Isi nilai pada variabel diatas disesuaikan dengan kasus masing-masing, yang pasti nilai selalu dibungkus tanda petik dua
+   contoh : BASE_URL="http://localhost/nama-project-web" dan seterusnya.

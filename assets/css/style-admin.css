@@ -1,0 +1,186 @@
+:root {
+    --warna-utama: #053faa;
+    --warna-teks: #fff;
+    --warna-bg-login: #259CF3;
+    --warna-teks-tombol-login: #fff;
+    --warna-link-login: blue;
+}
+
+.bg-sidebar {
+background-color: var(--warna-utama) !important;
+}
+.sidebar .sidebar-heading, .sidebar li a, .sidebar li i, .sidebar-brand {
+    color: var(--warna-teks) !important;
+}
+.card-info-dashboard .my-border {
+    border: 1px solid var(--warna-utama) !important;
+}
+.card-info-dashboard .card-title, .card-info-dashboard .card-text {
+    color: var(--warna-utama) !important;
+}
+
+.bg-loginPage {
+    background-color: var(--warna-bg-login) !important;
+}
+.btn-loginPage {
+    background-color: var(--warna-bg-login) !important;
+    color: var(--warna-teks-tombol-login) !important;
+}
+.link-loginPage a {
+    color: var(--warna-link-login) !important;
+}
+
+/* Warna Placeholder */
+/* input[placeholder], [placeholder], *[placeholder] {
+    color: #ccc !important;
+} */
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #ccc !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #ccc !important;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #ccc !important;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #ccc !important;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #ccc !important;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+   color:    #ccc !important;
+}
+
+/* Disable notifikasi untuk memperbarui CKEditor versi terbaru */
+.cke_notification.cke_notification_warning {
+    display: none;
+}
+.archive-container a.archive-item {
+    color: #333;
+    transition: all .1s;
+}
+.archive-container a.archive-item:hover {
+    text-decoration: none;
+    color: #2F5AD9;
+}
+.archive-container a.archive-item i {
+    font-size: 80px;
+}
+.archive-container a.archive-item .card-archive {
+    position: relative;
+    transition: all .3s;
+}
+.archive-container a.archive-item:hover .card-archive {
+    border: 1px solid #2F5AD9;
+}
+.archive-container a.archive-item .lable-archive {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: rgb(176, 243, 176);
+    padding: 1px 5px;
+    color: #333;
+    border-top-right-radius: 5px;
+    transition: all .3s;
+}
+.archive-container a.archive-item:hover .lable-archive {
+    background-color: rgb(8, 179, 8);
+    color: #fff;
+}
+.btn-edit-archive {
+    padding: 3px 6px;
+}
+.btn-edit-archive:hover {
+    text-decoration: none;
+}
+a.card-info-dashboard {
+    text-decoration: none;
+}
+a.card-info-dashboard > .card {
+    transition: all .3s;
+}
+a.card-info-dashboard > .card:hover {
+    transform: scale(1.1);
+}
+
+.card .kop-surat {
+    margin-bottom: 18px;
+}
+.card .kop-surat > p {
+   margin: 5px auto;
+}
+
+.card .isi-surat {
+    background-color: #eaeaea;
+    padding: 15px;
+}
+.card .isi-surat p {
+    margin: 10px auto;
+    color: #333;
+}
+
+.card .head-title {
+    background-color: #858796;
+    color: #fff;
+    padding: 6px;
+    margin-bottom: 0;
+}
+
+.surat-masuk .preview-file iframe {
+    width: 100%;
+    height: 420px;
+}
+.surat-masuk .preview-file.lead iframe {
+    height: 650px !important;
+}
+
+.view-surat-keluar img, .view-surat-masuk img {
+    display: block;
+    padding: 0.25rem;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+/* ============================ CSS UPLOAD FILE DRAG & DROP ============================ */
+.upload-file > #drop-area {
+    width: 100%;
+    height: 350px;
+    padding: 30px;
+    background-color: #f3f3f3;
+    text-align: center;
+    border-radius: 20px;
+    cursor: copy;
+}
+
+.upload-file #file-preview {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px dashed #c9c9c9;
+    background-color: #ececec;
+    background-position: center;
+    background-size: cover;
+}
+
+.upload-file #file-preview img {
+    width: 100px;
+    margin-top: 40px;
+}
+
+.upload-file #file-preview span {
+    display: block;
+    font-size: 14px;
+    color: #777;
+    margin-top: 15px;
+}
+
+.upload-file .is-invalid {
+    border: 2px dashed red !important;
+}
