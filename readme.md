@@ -14,42 +14,42 @@ Selain memiliki peran yang banyak, sistem ini juga dilengkapi oleh 8 Template Su
 
 <strong>A. Halaman Utama Web</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/1.%20Home%20Page%20SIM%20Administrasi.PNG' alt="Homepage" width="100%">
 </p>
 
 <strong>B. Halaman Administrator</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/2.%20Halaman%20Admin%20SIM%20Administrasi.PNG' alt="Admin Page" width="100%">
 </p>
 
 <strong>C. Halaman Mahasiswa</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/3.%20Halaman%20Mahasiswa%20SIM%20Administrasi.PNG' alt="Mahasiswa Page" width="100%">
 </p>
 
 <strong>D. Halaman Staff FTIK</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/4.%20Halaman%20Staff%20SIM%20Administrasi.PNG' alt="Staff Page" width="100%">
 </p>
 
 <strong>E. Halaman Kepala Kantor</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/5.%20Halaman%20Kepala%20SIM%20Administrasi.PNG' alt="Kepala Page" width="100%">
 </p>
 
 <strong>F. Halaman Wakil Dekan</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/6.%20Halaman%20Wakil%20Dekan%20SIM%20Administrasi.PNG' alt="Wakil Dekan Page" width="100%">
 </p>
 
 <strong>G. Halaman Dekan</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/7.%20Halaman%20Dekan%20SIM%20Administrasi.PNG' alt="Dekan Page" width="100%">
 </p>
 
 <strong>H. Halaman Dosen</strong>
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/8.%20Halaman%20Dosen%20SIM%20Administrasi.PNG' alt="Dosen Page" width="100%">
 </p>
 
 ## Teknologi Yang Digunakan
