@@ -14,6 +14,10 @@ Sistem Informasi Administrasi Surat Menyurat ini dibangun dengan Framework <a hr
 
 Selain memiliki peran yang banyak, Sistem ini juga dilengkapi oleh 8 Template Surat untuk kebutuhan pembuatan Surat Keluar.
 
+<p align="center">
+  <img src='https://github.com/hoirulhusen08/.github/blob/main/assets/1.%20Home%20Page%20SIM%20Administrasi.PNG' alt="Homepage SIM-Administrasi" width="100%">
+</p>
+
 *******************
 Teknologi Yang Digunakan
 *******************
