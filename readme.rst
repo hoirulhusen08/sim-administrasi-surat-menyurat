@@ -1,71 +1,83 @@
 ###################
-What is CodeIgniter
+Sistem Informasi Administrasi Surat Menyurat UMKO
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Sistem Informasi Administrasi Surat Menyurat ini dibangun dengan Framework `Codeigniter 3 <https://www.codeigniter.com/userguide3/>_`. Sistem ini dibuat atas dasar untuk memenuhi kebutuhan Tugas Akhir Mahasiswa (Skripsi) pada Universitas Muhammadiyah Kotabumi (UMKO). Sistem ini memiliki 7 Peran diantaranya :
+1. Administrator
+2. Mahasiswa
+3. Staf FTIK
+4. Kepala Kantor
+5. Wakil Dekan
+6. Dekan
+7. Dosen
+Selain memiliki peran yang banyak, Sistem ini juga dilengkapi oleh 8 Template Surat untuk kebutuhan pembuatan Surat Keluar.
 
 *******************
-Release Information
+Teknologi Yang Digunakan
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Berikut adalah teknologi dibalik Sistem ini :
+1. Framework Codeigniter versi 3 (sebagai Kerangka Utama Web)
+2. Bootstrap versi 4 (sebagai Framework CSS)
+3. CkEditor.js (sebagai WYSIWYG Editor)
+4. Datatables (untuk penggunaan Tabel)
+5. Jquery (Library JS)
+6. Template SB-Admin2 (sebagai Template Dashboard)
 
 **************************
-Changelog and New Features
+Persiapan Instalasi
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Sebelum melakukan instalasi program ini diwajibkan untuk menyiapkan :
+1. Webserver dan MySQL Server (XAMPP, WampServer, Laragon, Mamp, atau yang lainnya)
+2. PHP disarankan versi 8.0 - 8.1
+3. Composer
+4. Git (Optional)
 
 *******************
-Server Requirements
+Proses Instalasi
 *******************
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+1. Aktifkan XAMPP lalu masukan seluruh source code program ke folder htdocs XAMPP
+2. Ubah konfigurasi pada file .env diantaranya :
+   BASE_URL
+   DB_HOSTNAME
+   DB_USERNAME
+   DB_PASSWORD
+   DB_NAME
+   Isi nilai pada variabel diatas disesuaikan dengan kasus masing-masing, yang pasti nilai selalu dibungkus tanda petik dua
+   contoh : BASE_URL="http://localhost/nama-project-web" dan seterusnya.
+3. Ketik perintah "Composer Install" untuk mendownload semua Library yang digunakan.
+4. Untuk Login bisa menggunakan akun berikut :
+   Admin :
+          Email    = admin@gmail.com
+          Password = 12345678
+   Mahasiswa :
+          Email    = mahasiswa@gmail.com
+          Password = 12345678
+   Staff FTIK :
+          Email    = staff@gmail.com
+          Password = 12345678
+   Kepala Kantor :
+          Email    = kepala@gmail.com
+          Password = 12345678
+   Wakil Dekan :
+          Email    = wakildekan@gmail.com
+          Password = 12345678
+   Dekan :
+          Email    = dekan@gmail.com
+          Password = 12345678
+   Dosen :
+          Email    = dosen@gmail.com
+          Password = 12345678
 
 ************
-Installation
+Pembuat & Lisensi
 ************
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+Sistem atau Program ini dibuat oleh @hoirulhusen08 (Khoirul Husen). Source Code ini bersifat Open Source namun ada beberapa aturan yang berlaku diantaranya :
+1. Hak Cipta penuh tetap @hoirulhusen08 (Jika disalah gunakan bisa kami komplain).
+2. Boleh digunakan dan di Modifikasi asalkan tidak diperjual belikan (Dikomersilkan).
+3. Jika menggunakan Source Code ini diharapkan memberikan sumber nama pembuat yaitu : hoirulhusen08.
+4. Jika ada hal lain untuk menjaga Hak Cipta bisa hubungi kontak kami : hoirulhusen08@gmail.com
 
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.

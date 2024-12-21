@@ -9,3 +9,25 @@ Untuk Instalasi Program ini di localhost ada beberapa yang perlu dilakukan :
 
    Isi nilai pada variabel diatas disesuaikan dengan kasus masing-masing, yang pasti nilai selalu dibungkus tanda petik dua
    contoh : BASE_URL="http://localhost/nama-project-web" dan seterusnya.
+3. Untuk Login bisa menggunakan akun berikut :
+   Admin :
+          Email    = admin@gmail.com
+          Password = 12345678
+   Mahasiswa :
+          Email    = mahasiswa@gmail.com
+          Password = 12345678
+   Staff FTIK :
+          Email    = staff@gmail.com
+          Password = 12345678
+   Kepala Kantor :
+          Email    = kepala@gmail.com
+          Password = 12345678
+   Wakil Dekan :
+          Email    = wakildekan@gmail.com
+          Password = 12345678
+   Dekan :
+          Email    = dekan@gmail.com
+          Password = 12345678
+   Dosen :
+          Email    = dosen@gmail.com
+          Password = 12345678

@@ -1,0 +1,12 @@
+Kode Jenis Surat
+
+1. = KET
+2. = KEP
+3. = IZN-PRA
+4. = IZN-PEN
+5. = KEP-PMBNG
+6. = KEP-PMBHS
+7. = KEP-MATKUL
+8. = KEP-UJK
+9. = URD
+10. = PPG
