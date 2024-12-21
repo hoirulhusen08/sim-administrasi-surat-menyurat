@@ -2,7 +2,7 @@
 Sistem Informasi Administrasi Surat Menyurat UMKO
 ###################
 
-Sistem Informasi Administrasi Surat Menyurat ini dibangun dengan Framework [Codeigniter 3](codeigniter.com/userguide3). Sistem ini dibuat atas dasar untuk memenuhi kebutuhan Tugas Akhir Mahasiswa (Skripsi) pada Universitas Muhammadiyah Kotabumi (UMKO). Sistem ini memiliki 7 Peran diantaranya :
+Sistem Informasi Administrasi Surat Menyurat ini dibangun dengan Framework <a href="https://codeigniter.com/userguide3" target="_blank">Codeigniter 3</a>. Sistem ini dibuat atas dasar untuk memenuhi kebutuhan Tugas Akhir Mahasiswa (Skripsi) pada Universitas Muhammadiyah Kotabumi (UMKO). Sistem ini memiliki 7 Peran diantaranya :
 
 1. Administrator.
 2. Mahasiswa.
