@@ -12,7 +12,42 @@ Sistem Informasi Administrasi Surat Menyurat ini dibangun dengan Framework <a hr
 
 Selain memiliki peran yang banyak, sistem ini juga dilengkapi oleh 8 Template Surat untuk kebutuhan pembuatan Surat Keluar.
 
-<label>Halaman Utama Web</label>
+<strong>A. Halaman Utama Web</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>B. Halaman Administrator</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>C. Halaman Mahasiswa</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>D. Halaman Staff FTIK</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>E. Halaman Kepala Kantor</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>F. Halaman Wakil Dekan</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>G. Halaman Dekan</strong>
+<p align="center">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
+</p>
+
+<strong>H. Halaman Dosen</strong>
 <p align="center">
   <img src='https://github.com/My-Introvert/.github/blob/main/profile/HomePage%20My%20Introvert.PNG' alt="This is Logo Image" width="100%">
 </p>
